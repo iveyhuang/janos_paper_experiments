@@ -24,3 +24,4 @@ To execute a `.py` file and replicate our experimental results, first, make sure
 `evaluate_neural_network_20200430.py` is for evaluating the performance of JANOS at solving various-sized problems when using neural networks.
 
 
+_Please email us if you have any questions._
