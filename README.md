@@ -23,5 +23,15 @@ To execute a `.py` file and replicate our experimental results, first, make sure
 
 `evaluate_neural_network_20200430.py` is for evaluating the performance of JANOS at solving various-sized problems when using neural networks.
 
+## Result files
+
+`data_all_scale_20200501_summary.csv` contains the formatted results for generating Figure 3 (The average runtimes of three predictive models with different scales) in the most recent version.
+
+`20200501_logistic_regression_approximation_evaluation_13-56-12-20200502.txt` contains the formatted results for generating Figure 4 (The quality of the linear approximation of the logistic regression function at optimal solutions) in the most recent version.
+
+`rewrite_08_s1_full_15/09/27-20200501.xlsx` contains the formatted results for generating Table 1 in the most recent version.
+
+
+
 
 _Please email us if you have any questions._
