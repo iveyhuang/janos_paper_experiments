@@ -6,7 +6,7 @@ Before executing the code, change `from janos_main import *` into `from janos im
 To execute a `.py` file and replicate our experimental results, first, make sure the code file and the data files are in the same folder. Then, direct to the folder where the files are located in the command line, type `python rewrite_08_20200430_s1.py` and press enter, here taking `rewrite_08_20200430_s1.py` as an example.
 
 ## Data files
-`college_student_enroll-s1-1.csv` contains the 20,000 student records for training predictive models.
+`college_student_enroll-s1-1.csv` contains the 20,000 randomly generated student records for training predictive models.
 
 `college_applications6000.csv` contains 6,000 student application records. We randomly draw certain number of records from this pool for our experiments in the paper.
 
